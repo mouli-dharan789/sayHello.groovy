@@ -3,4 +3,4 @@ def pipeline
         pipeline = load 'pipeline.groovy'
         pipeline.functionA()
     }
-    pipeline.functionB()
+    pipeline.function
